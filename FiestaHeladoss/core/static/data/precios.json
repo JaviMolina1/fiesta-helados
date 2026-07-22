@@ -1,0 +1,23 @@
+{
+    "Precios": [
+        {
+            "id":"1",
+            "Rango":"0 a 100",
+            "Precio":"$1500",
+            "Sabores":"Chocolate o Vainilla"
+        },
+        {
+            "id":"2",
+            "Rango":"101 a 200",
+            "Precio":"$1200",
+            "Sabores":"Chocolate/Vainilla/Aliado"        },
+        {
+            "id":"3",
+            "Rango":"201 a 300",
+            "Precio":"$900",
+            "Sabores":"Chocolate/Vainilla/Aliado/Frutilla"        }
+    ],
+    "clientes":[
+        
+    ]
+}
